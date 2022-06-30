@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+table {
+	border-collapse:collapse;
+}
+
+td {
+	border: 1px solid grey;
+	font-size:80px;
+	color:#ffffff;
+	border-radius: 10px 10px 10px 10px;
+}
